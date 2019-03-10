@@ -1,0 +1,66 @@
+,Systems,,,
+system_tag_id,"""name""","""location""","""module_id""","""condition"""
+CA1000001,"""S5 Truss Segment""","""ENCP50001""","""CA1000""",1
+CA1000002,"""Functional Cargo Block System""","""ENCP50004""","""CA1000""",1
+CA1000003,"""External Stowage Platform""","""ENCP50010""","""CA1000""",1
+CA1000004,"""Treadmill with Vibration Isolation Stabilization ""","""ENCP50011""","""CA1000""",1
+EU1000001,"""Starboard Photovoltaic Arrays""","""ENCP40010""","""EU1000""",1
+EU1000002,"""Crew Return Vehicle""","""ENCP40004""","""EU1000""",1
+EU1000003,"""Muscle Atrophy Research and Exercise System""","""ENCP40006""","""EU1000""",1
+JA1000001,"""Solar Alpha Rotary Joint""","""ENCP30005""","""JA1000""",1
+JA1000002,"""Kibo""","""ENCP30002""","""JA1000""",1
+JA1000003,"""Interim Control System""","""ENCP36002""","""JA1000""",1
+JA1000004,"""JEM Remote Manipulator System""","""ENCP33003""","""JA1000""",1
+JA1000005,"""JEM Experiment Logistics System""","""ENCP36001""","""JA1000""",1
+JA1000006,"""NanoRacks Airlock System""","""ENCP36005""","""JA1000""",1
+JA1000007,"""European Transportation Carrier""","""ENCP33004""","""JA1000""",1
+JA1000008,"""Cloud Aerosol Transport System""","""ENCP36004""","""JA1000""",1
+JA1000009,"""Androgynous Peripheral Attach System""","""ENCP33001""","""JA1000""",1
+JA1000010,"""Dextre""","""ENCP33006""","""JA1000""",1
+JA1000011,"""External Active Thermal Control System""","""ENCP30004""","""JA1000""",1
+JA1000012,"""Grapple fixture System""","""ENCP30006""","""JA1000""",1
+RU1000001,"""Soyuz""","""ENCP11002""","""RU1000""",1
+RU1000002,"""Science Power Platform""","""ENCP12005""","""RU1000""",1
+RU1000003,"""Pressurized Mating System""","""ENCP13004""","""RU1000""",1
+RU1000004,"""Cupola""","""ENCP11001""","""RU1000""",1
+RU1000005,"""Multi-Purpose Logistics System""","""ENCP15003""","""RU1000""",1
+RU1000006,"""Canadarm""","""ENCP12001""","""RU1000""",1
+RU1000007,"""Quest""","""ENCP10004""","""RU1000""",1
+RU1000008,"""Poisk""","""ENCP12003""","""RU1000""",1
+RU1000009,"""Rassvet ""","""ENCP11003""","""RU1000""",1
+RU1000010,"""Nauka""","""ENCP15005""","""RU1000""",1
+RU1000011,"""European Robotic Arm""","""ENCP11007""","""RU1000""",1
+RU1000012,"""Uzlovoy""","""ENCP10007""","""RU1000""",1
+RU1000013,"""Combustion Integrated System""","""ENCP15001""","""RU1000""",1
+RU1000014,"""Vegetable Production System""","""ENCP14005""","""RU1000""",1
+RU1000015,"""Luch""","""ENCP14004""","""RU1000""",1
+RU1000016,"""Strela""","""ENCP13001""","""RU1000""",1
+RU1000017,"""Voskhod""","""ENCP14001""","""RU1000""",1
+RU1000018,"""Integrated cargo carrier""","""ENCP13002""","""RU1000""",1
+RU1000019,"""Orbital replacement unitSystem""","""ENCP13006""","""RU1000""",1
+RU1000020,"""NanoRacks Airlock System""","""ENCP11005""","""RU1000""",1
+US1000001,"""Docking System""","""ENCP26009""","""US1000""",0
+US1000002,"""Stowage System""","""ENCP21002""","""US1000""",1
+US1000003,"""S6 Truss Segment""","""ENCP21009""","""US1000""",1
+US1000004,"""Thermal Control Panels""","""ENCP22001""","""US1000""",1
+US1000005,"""CSA Remote Manipulator System""","""ENCP24002""","""US1000""",1
+US1000006,"""Port Photovoltaic Arrays""","""ENCP23005""","""US1000""",1
+US1000007,"""Centrifuge Accomodations System""","""ENCP23001""","""US1000""",1
+US1000008,"""Docking node""","""ENCP22006""","""US1000""",1
+US1000009,"""Truss""","""ENCP21005""","""US1000""",1
+US1000010,"""Habitation System""","""ENCP24001""","""US1000""",1
+US1000011,"""Bigelow Expandable System""","""ENCP26003""","""US1000""",1
+US1000012,"""Atomic clock ensemble ""","""ENCP22004""","""US1000""",1
+US1000013,"""External payload facility""","""ENCP24005""","""US1000""",1
+US1000014,"""Microgravity Science Glovebox ""","""ENCP25001""","""US1000""",1
+US1000015,"""Window Observational Research Facility""","""ENCP22003""","""US1000""",1
+US1000016,"""ExPRESS Logistics Carrier""","""ENCP20008""","""US1000""",1
+US1000017,"""Human Research Facility Holter Monitor""","""ENCP21001""","""US1000""",1
+US1000018,"""Minus Eighty Degree Freezer""","""ENCP26006""","""US1000""",1
+US1000019,"""Bishop Airlock System""","""ENCP20004""","""US1000""",1
+US1000020,"""Common Berthing System""","""ENCP21003""","""US1000""",1
+US1000021,"""Environmental Control and Life Support System ""","""ENCP23007""","""US1000""",1
+US1000022,"""Propulsion System""","""ENCP25005""","""US1000""",1
+US1000023,"""Neutron Star Interior Composition Explorer""","""ENCP25006""","""US1000""",1
+US1000024,"""Heat radiators""","""ENCP25003""","""US1000""",1
+US1000025,"""Thermal control system""","""ENCP24004""","""US1000""",1
